@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "diemorgenstern",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
