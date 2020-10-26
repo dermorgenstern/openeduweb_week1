@@ -5,15 +5,14 @@
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"
     },
-    {
       "/login/": {
       "X-Author": "diemorgenstern",
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"
     },
-    "/*": {
+      "/*": {
       "X-Author": "diemorgenstern",
       "Access-Control-Allow-Origin": "*"
     }
-  }
+  },
 }
